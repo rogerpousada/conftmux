@@ -1,0 +1,1 @@
+Minha Versão do tmux com as teclas de atalho alteradas
